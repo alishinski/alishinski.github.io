@@ -4,7 +4,7 @@
   
 Links to my stuff:
   
-  ```{r}
+```{r}
 library(htmltools)
 a(title = "linkedin", href = "https://www.linkedin.com/in/alex-lishinski-44b395106")
 a(title = "twitter", href = "http://twitter.com/html034")
