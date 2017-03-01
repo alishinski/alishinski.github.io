@@ -1,5 +1,5 @@
 ---
-  title: "About This Website"
+  title: "About Me"
 ---
   
-  More about this website.
+  My name is Alex Lishinski.  I am a 4th year Ph.D student at Michigan State University in the Educational Psychology and Educational Psychology (EPET).  My research largely deals with Computer Science Education, and my dissertation is on student factors that influence success in introductory programming courses.  My Ph.D advisor is Dr. Aman Yadav.  I also work as a research assistant for Dr. Justin Micomonaco in the MSU Honors College, doing research and data analysis.

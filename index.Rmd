@@ -2,4 +2,15 @@
   title: "My Website"
 ---
   
-  Hello, Website!
+Links to my stuff:
+  
+  ```{r}
+library(htmltools)
+a(title = "linkedin", href = "https://www.linkedin.com/in/alex-lishinski-44b395106")
+a(title = "twitter", href = "http://twitter.com/html034")
+a(title = "github", href = "http://github.com/alishinski")
+a(title = "R pubs", href = "http://rpubs.com/alishinski")
+a(title = "AutoModel", href = "https://cran.r-project.org/package=AutoModel")
+a(title = "clustRcompaR", href = "https://cran.r-project.org/package=AutoModel")
+a(title = "Google Scholar", href = "https://scholar.google.com/citations?user=advuTqAAAAAJ&hl=en")
+```
