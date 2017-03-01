@@ -1,11 +1,11 @@
 name: "Alex Lishinski"
 output_dir: .
 navbar:
-  title: "My Website"
+  title: "Alex Lishinski"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
     - text: "Blog"
-      href: http://alishinski.github.io/blogsite/
+      href: http://alishinski.github.io/blog/

@@ -1,16 +1,22 @@
 ---
-  title: "My Website"
+  title: "Overview"
 ---
   
 Links to my stuff:
   
-```{r}
+```{r, echo = F}
 library(htmltools)
-a(title = "linkedin", href = "https://www.linkedin.com/in/alex-lishinski-44b395106")
-a(title = "twitter", href = "http://twitter.com/html034")
-a(title = "github", href = "http://github.com/alishinski")
-a(title = "R pubs", href = "http://rpubs.com/alishinski")
-a(title = "AutoModel", href = "https://cran.r-project.org/package=AutoModel")
-a(title = "clustRcompaR", href = "https://cran.r-project.org/package=AutoModel")
-a(title = "Google Scholar", href = "https://scholar.google.com/citations?user=advuTqAAAAAJ&hl=en")
+a(title = "linkedin", href = "https://www.linkedin.com/in/alex-lishinski-44b395106", "linkedin")
+br()
+a(title = "twitter", href = "http://twitter.com/html034", "twitter")
+br()
+a(title = "github", href = "http://github.com/alishinski", "github")
+br()
+a(title = "R pubs", href = "http://rpubs.com/alishinski", "r-pubs")
+br()
+a(title = "AutoModel", href = "https://cran.r-project.org/package=AutoModel", "my automodel R package")
+br()
+a(title = "clustRcompaR", href = "https://cran.r-project.org/package=clustRcompaR", "my clustRcompaR R package")
+br()
+a(title = "Google Scholar", href = "https://scholar.google.com/citations?user=advuTqAAAAAJ&hl=en", "my google scholar profile")
 ```
